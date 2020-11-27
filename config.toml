@@ -1,4 +1,4 @@
-# baseURL       = "http://example.org/"
+baseURL       = "https://hopeful-mcnulty-2711f7.netlify.app"
 languageCode  = "fr-FR"
 title         = "Roxo | NWS portfolio starter theme"
 theme         = "roxo"
