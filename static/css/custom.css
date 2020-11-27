@@ -1,0 +1,64 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+ 
+ h1 {
+    font-family: montserrat,sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.btn-primary {
+    background: #000000;
+    color: #fff;
+    }
+
+    .site-project-item-content, .site-blog-post-content {
+        position: absolute;
+        background: #000000;
+        width: 100%;
+        padding: 45px 50px;
+        bottom: 0;
+        transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: montserrat,sans-serif;
+            font-weight: 600;
+            color: #ffffff;
+            }
+
+         .site-project-item-content span, .site-blog-post-content span {
+                font-family: montserrat,sans-serif;
+                color: #00c4ff;
+                display: block;
+                margin-bottom: 10px;
+                }
+
+                .site-project-cta {
+                    margin-top: 30px;
+                    display: inline-block;
+                    position: relative;
+                    font-family: montserrat,sans-serif;
+                    font-size: 18px;
+                    font-weight: 500;
+                    color: #000000;
+                    }
+
+                    .site-contact-title span {
+                        color: #00c4ff;
+                        }
+                        .site-project-header {
+                            padding: 170px 0 100px;
+                            background: #000000;
+                            }
+                            .site-footer {
+                                background: #000000;
+                                padding: 100px 0;
+                                }
+                                .site-counter {
+                                    padding: 85px 0;
+                                    color: #fff;
+                                    background: #000000;
+                                    }
+                        
