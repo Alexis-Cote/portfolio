@@ -4,7 +4,7 @@ date: 2019-12-23T15:58:10+06:00
 type: portfolio
 image: "images/projects/project-thumb-one.png"
 category: ["Webrief"]
-project_images: ["images/projects/project-image-one.jpg", "images/projects/project-image-two.jpg"]
+project_images: ["images/projects/project-image-one.png", "images/projects/project-image-two.png"]
 ---
 
 Camille est fan depuis toujours d’énigme en tout genre. Avec Safia, sa meilleure amie, elles ont décidé d’ouvrir un escape game grandeur nature !
@@ -17,4 +17,4 @@ Avant de se lancer dans l’achat des meubles, des accessoires et de l’enseign
 
 Elles aiment toutes les deux les formes ésotériques et la typographie. Des références aux voyages dans l’espace/dans le temps ou à l’astronomie peuvent être envisagées mais ce n’est pas une obligation.
 
-Camille et Safia sont ouvertes et ne savent pas à quoi s’attendre mais une chose est sûre : l’identité visuelle sera réussie si elle inspire le mystère, l’intrigue et la curiosité.
+Camille et Safia sont ouvertes et ne savent pas à quoi s’attendre mais une chose est sûre : l’identité visuelle sera réussie si elle inspire le mystère, l’intrigue et la curiosité.    
