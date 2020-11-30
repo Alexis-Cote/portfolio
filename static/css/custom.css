@@ -22,6 +22,12 @@
         transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
         }
 
+        h3 {
+            font-family: montserrat,sans-serif;
+            font-weight: 600;
+            color: #ffffff;
+            }
+
       
 
          .site-project-item-content span, .site-blog-post-content span {
