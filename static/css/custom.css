@@ -22,11 +22,7 @@
         transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
         }
 
-        h1, h2, h3, h4, h5, h6 {
-            font-family: montserrat,sans-serif;
-            font-weight: 600;
-            color: #ffffff;
-            }
+      
 
          .site-project-item-content span, .site-blog-post-content span {
                 font-family: montserrat,sans-serif;
