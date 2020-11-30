@@ -74,3 +74,16 @@
                                             font-weight: 600;
                                             color: #fbfbfb;
                                             }
+
+                                            .form-control {
+                                                background: 0 0;
+                                                border-radius: 0;
+                                                margin-bottom: 30px;
+                                                padding: 0 0 10px;
+                                                border-width: 0 0 1px;
+                                                border-color: #00c4ff;
+                                                font-weight: 300;
+                                                letter-spacing: 1px;
+                                                -webkit-appearance: none;
+                                                height: 42px;
+                                                }
