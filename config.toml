@@ -104,8 +104,8 @@ summarylength = 25
           name = "Linkedin"
           url  = "https://www.linkedin.com/in/alexis-coté-73b0431bb/"
         [[params.footer.social.link]]
-          name = ""
-          url  = "#"
+          name = "Youtube"
+          url  = "https://www.youtube.com/channel/UCE8ZOez5JybD46AtRlcfvfA?view_as=subscriber"
         [[params.footer.social.link]]
           name = ""
           url  = "#"
