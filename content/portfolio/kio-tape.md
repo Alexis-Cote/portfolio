@@ -4,7 +4,7 @@ date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/project-thumb-four.png"
 category: ["Webrief"]
-project_images: ["images/projects/project-details-image-one.png", "images/projects/project-details-image-two.png"]
+project_images: ["images/projects/project-thumb-four.png", "images/projects/project-thumb-four.png"]
 ---
 
 Camille est fan depuis toujours d’énigme en tout genre. Avec Safia, sa meilleure amie, elles ont décidé d’ouvrir un escape game grandeur nature !
